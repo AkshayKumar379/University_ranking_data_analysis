@@ -23,7 +23,13 @@ mini_project-1/
 - python 3.13+
 
 ## usage
-- run the main script 
-ranks.py
+run the main script:
+
+```bash 
+python ranks.py
+```
 or explore jupyter notebook
-- ranking_demo.ipynb
+
+```bash
+jupyter notebook ranking_demo.ipynb
+```
