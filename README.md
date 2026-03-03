@@ -9,7 +9,7 @@ Python project for analyzing university rankings and capitals datasets using CSV
 
 
 ## project structure
-
+```
 mini_project-1/
 ├ranks.py
 ├ranking_demo.ipynb
@@ -18,6 +18,7 @@ mini_project-1/
 └data/
 ├capitals.csv
 ├universities.csv
+```
 
 ## requirements
 - python 3.13+
